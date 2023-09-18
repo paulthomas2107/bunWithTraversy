@@ -1,1 +1,2 @@
 bun run --hot index.ts
+bun build ./src/index.ts --outfile=./dist/bundle.js --watch 
